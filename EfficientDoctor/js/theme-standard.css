@@ -1,0 +1,95 @@
+/* DD Menu */
+.dd-menu {
+	background: #f5f5f5;
+    z-index:999999999999;
+}
+
+.dd-menu-header {
+	border-bottom: 1px solid #ddd;
+	padding: 0 40px;
+	position: relative;
+}
+
+.level-1 > .dd-menu-header {
+	padding-left: 14px;
+}
+
+.dd-menu-title {
+	display: block;
+	font-size: 18px;
+	line-height: 20px;
+	padding: 14px 20px;
+    text-align:right;
+}
+
+.dd-menu-header a {
+    color:#17b290 !important;
+}
+
+.dd-menu-close {
+	background: #066a54;
+	border: 0;
+	border-left: 1px solid #ddd;
+	cursor: pointer;
+	font-size: 30px;
+	height: 100%;
+	outline: none;
+	padding: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 40px;
+}
+
+/* Overlay */
+#dd-menu-overlay {
+	background: rgba(0, 0, 0, .8);
+	display: none;
+	height: 100%;
+	left: 0;
+	opacity: 0;
+	position: fixed;
+	top: 0;
+	-webkit-transition: opacity .3s ease;
+	transition: opacity .3s ease;
+	width: 100%;
+	z-index: 998;
+}
+
+#dd-menu-overlay.open {
+	opacity: 1;
+}
+
+/* DD Menu Items */
+.dd-menu-prev {
+	border: 0;
+	cursor: pointer;
+	font-size: 20px;
+	height: 100%;
+	left: 0;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	width: 40px;
+    background-color:#066a54;
+}
+
+.level-1 > .dd-menu-header > .dd-menu-prev {
+	display: none;
+}
+
+.dd-menu-item {
+	border-bottom: 1px solid #ddd;
+}
+
+.dd-menu-item a {
+	color: #055d4a;
+}
+
+.dd-menu-item.link a {
+	background: #fff;
+	display: block;
+	padding: 14px;
+	text-decoration: none;
+    text-align:right;
+}

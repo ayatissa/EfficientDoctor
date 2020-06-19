@@ -1,0 +1,17 @@
+﻿<dx:ASPxTextBox SkinId="Text" runat="server" CssClass="textbox" width=200px ReadOnly="false" />
+
+
+<dx:ASPxTextBox SkinId="Text" runat="server" CssClass="textbox" width=400px ReadOnly="false" SkinID="Textf" />
+
+<dx:ASPxTextBox SkinId="Text" runat="server" CssClass="textboxreg" width=300px ReadOnly="false" SkinID="TextReg" />
+
+
+<dx:ASPxTextBox SkinId="Text" runat="server" CssClass="textbox-label" ReadOnly="true" SkinID="Text_Label" BackColor="Transparent" >
+<Border BorderWidth="0px" />
+</dx:ASPxTextBox>
+
+
+
+<dx:ASPxTextBox SkinId="Text" runat="server" CssClass="textbox_tabs" SkinID="Text_Tabs" />
+
+<dx:ASPxTextBox SkinId="Text" runat="server" CssClass="textbox_profile" SkinID="textbox_profile" Width="200px" />

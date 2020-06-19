@@ -1,0 +1,40 @@
+﻿<dx:ASPxRadioButtonList SkinId="RadioButtonList" CssClass="RadioButtonList" runat="server" RightToLeft="True" Font-Names="itc" Font-Size="12px" RepeatDirection="Horizontal">
+            <CheckedImage Height="22px" Url="~/App_Themes/ITC_Theme/Images/radio_1.png" Width="22px">
+            </CheckedImage>
+            <UncheckedImage Height="22px" Url="~/App_Themes/ITC_Theme/Images/radio_2.png" Width="22px">
+            </UncheckedImage>
+</dx:ASPxRadioButtonList>
+
+
+
+<dx:ASPxRadioButtonList SkinId="RadioBList" CssClass="RadioButtonList" runat="server" RightToLeft="True" Font-Names="itc" Font-Size="12px" RepeatDirection="Vertical">
+            <CheckedImage Height="22px" Url="~/App_Themes/ITC_Theme/Images/radio_1.png" Width="22px">
+            </CheckedImage>
+            <UncheckedImage Height="22px" Url="~/App_Themes/ITC_Theme/Images/radio_2.png" Width="22px">
+            </UncheckedImage>
+</dx:ASPxRadioButtonList>
+
+
+
+<dx:ASPxRadioButtonList SkinId="RadioButtonListFinal" CssClass="RadioButtonList" runat="server" RightToLeft="True" Font-Names="itc" Font-Size="12px" RepeatDirection="Horizontal">
+            <CheckedImage Height="22px" Url="~/App_Themes/ITC_Theme/Images/radio_1.png" Width="22px">
+            </CheckedImage>
+            <UncheckedImage Height="22px" Url="~/App_Themes/ITC_Theme/Images/radio_2.png" Width="22px">
+            </UncheckedImage>
+</dx:ASPxRadioButtonList>
+
+
+
+
+<dx:ASPxRadioButtonList SkinId="RadioButtonListFinalize" CssClass="RadioButtonList" runat="server" RightToLeft="True" Font-Names="itc" Font-Size="12px" RepeatDirection="Horizontal">
+
+</dx:ASPxRadioButtonList>
+
+
+
+<dx:ASPxRadioButton SkinId="RadioButton" runat="server" Font-Names="itc" Font-Size="12px" RightToLeft="True">
+    <CheckedImage Height="22px" Url="~/App_Themes/ITC_Theme/Images/radio_1.png" Width="22px">
+    </CheckedImage>
+    <UncheckedImage Height="22px" Url="~/App_Themes/ITC_Theme/Images/radio_2.png" Width="22px">
+    </UncheckedImage>
+</dx:ASPxRadioButton>

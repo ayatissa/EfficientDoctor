@@ -1,0 +1,123 @@
+﻿<%@ Register assembly="DevExpress.Web.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web" tagprefix="dx" %>
+
+
+<dx:ASPxGridView runat="server" RightToLeft="True" SkinID="GridView" AutoGenerateColumns="False" CssClass="MozBox">
+   
+  <Settings ShowFilterRow="True" />
+      <Styles>
+        <GroupPanel HorizontalAlign="Center"></GroupPanel>
+        <EditingErrorRow HorizontalAlign="Center" VerticalAlign="Middle" Wrap="False"></EditingErrorRow>
+        <Header Font-Names="itc" BackColor="#f5f5f5" Font-Size="11px" HorizontalAlign="Center" VerticalAlign="Middle" ForeColor="#6d6e70" Font-Bold="False">
+        
+        </Header>
+        <RowHotTrack BackColor="#CAE4FF"></RowHotTrack>
+        <AlternatingRow BackColor="#F2F2F2"></AlternatingRow>
+        <SelectedRow BackColor="#f5e5bb" Font-Names="itc" Font-Size="11px"></SelectedRow>
+        <Cell Font-Names="itc" Font-Size="11px"></Cell>
+        <PagerTopPanel BackColor="White"></PagerTopPanel>
+        <PagerBottomPanel BackColor="White"></PagerBottomPanel>
+        <FilterCell Font-Names="itc" Font-Size="11px" ForeColor="Gray"></FilterCell>
+      </Styles>
+<Border BorderColor="Black" BorderWidth="1px" />
+      <StylesPager>
+        <CurrentPageNumber Font-Names="Tahoma" Font-Size="X-Small" Font-Underline="False" ForeColor="#ffffff">
+          <BackgroundImage HorizontalPosition="center" Repeat="NoRepeat" VerticalPosition="center" />
+          <Border BorderColor="Silver" BorderStyle="Solid" BorderWidth="1px" />
+        </CurrentPageNumber>
+        <Pager BackColor="White"></Pager>
+        <PageSizeItem VerticalAlign="Middle"></PageSizeItem>
+        <Summary CssClass="hiddenitem"></Summary>
+      </StylesPager>
+   <StylesEditors>
+     <TextBox CssClass="textbox">
+     </TextBox>
+   </StylesEditors>
+      <SettingsPager CurrentPageNumberFormat="{0}">
+        <NextPageButton>
+          <Image Url="~/App_Themes/ITC_Theme/Images/next.png">
+          </Image>
+        </NextPageButton>
+        <PrevPageButton>
+          <Image Url="~/App_Themes/ITC_Theme/Images/pre.png">
+          </Image>
+        </PrevPageButton>
+        <Summary Visible="false" AllPagesText="الصفحة : {0} - {1} ({2} items)" Text="الصفحة {0} من {1}" />
+      </SettingsPager>
+
+    </dx:ASPxGridView>
+
+<dx:ASPxGridView runat="server" RightToLeft="True" SkinID="GridView_View" AutoGenerateColumns="False" CssClass="MozBox">
+      <Styles>
+        <GroupPanel HorizontalAlign="Center"></GroupPanel>
+        <EditingErrorRow HorizontalAlign="Center" VerticalAlign="Middle" Wrap="False"></EditingErrorRow>
+        <Header Font-Names="itc" BackColor="#f5f5f5" Font-Size="11px" HorizontalAlign="Center" VerticalAlign="Middle" ForeColor="#6d6e70" Font-Bold="False">
+        
+        </Header>
+        <RowHotTrack BackColor="#CAE4FF"></RowHotTrack>
+        <AlternatingRow BackColor="#F2F2F2"></AlternatingRow>
+        <SelectedRow BackColor="#f5e5bb" Font-Names="itc" Font-Size="11px"></SelectedRow>
+        <Cell Font-Names="itc" Font-Size="11px"></Cell>
+        <PagerTopPanel BackColor="White"></PagerTopPanel>
+        <PagerBottomPanel BackColor="White"></PagerBottomPanel>
+        <FilterCell Font-Names="itc" Font-Size="11px" ForeColor="Gray"></FilterCell>
+      </Styles>
+<Border BorderColor="Black" BorderWidth="1px" />
+      <StylesPager>
+        <CurrentPageNumber Font-Names="Tahoma" Font-Size="X-Small" Font-Underline="False" ForeColor="#ffffff">
+          <BackgroundImage HorizontalPosition="center" Repeat="NoRepeat" VerticalPosition="center" />
+          <Border BorderColor="Silver" BorderStyle="Solid" BorderWidth="1px" />
+        </CurrentPageNumber>
+        <Pager BackColor="White"></Pager>
+        <PageSizeItem VerticalAlign="Middle"></PageSizeItem>
+        <Summary CssClass="hiddenitem"></Summary>
+      </StylesPager>
+   <StylesEditors>
+     <TextBox CssClass="textbox">
+     </TextBox>
+   </StylesEditors>
+     
+
+    </dx:ASPxGridView>
+
+<dx:ASPxGridView runat="server" Width="100%" RightToLeft="True" SkinID="GridViewSmall" AutoGenerateColumns="False">
+      <Settings ShowFilterRow="false" />
+      <Styles>
+        <GroupPanel HorizontalAlign="Center"></GroupPanel>
+        <EditingErrorRow HorizontalAlign="Center" VerticalAlign="Middle" Wrap="False"></EditingErrorRow>
+        <Header Font-Names="itc" BackColor="#f5f5f5" Font-Size="11px" HorizontalAlign="Center" VerticalAlign="Middle" ForeColor="#6d6e70" Font-Bold="False">
+        </Header>
+        <RowHotTrack BackColor="#CAE4FF"></RowHotTrack>
+        <AlternatingRow BackColor="#F2F2F2"></AlternatingRow>
+        <SelectedRow BackColor="#f5e5bb" Font-Names="itc" Font-Size="11px"></SelectedRow>
+        <Cell Font-Names="itc" Font-Size="11px"></Cell>
+        <PagerTopPanel BackColor="White"></PagerTopPanel>
+        <PagerBottomPanel BackColor="White"></PagerBottomPanel>
+        <FilterCell Font-Names="itc" Font-Size="11px" ForeColor="Gray"></FilterCell>
+      </Styles>
+           
+      <StylesPager>
+        <CurrentPageNumber Font-Names="Tahoma" Font-Size="X-Small" Font-Underline="False" ForeColor="#ffffff">
+          <BackgroundImage HorizontalPosition="center" Repeat="NoRepeat" VerticalPosition="center" />
+          <Border BorderColor="Silver" BorderStyle="Solid" BorderWidth="1px" />
+        </CurrentPageNumber>
+        <Pager BackColor="White"></Pager>
+        <PageSizeItem VerticalAlign="Middle"></PageSizeItem>
+        <Summary CssClass="hiddenitem"></Summary>
+      </StylesPager>
+   <StylesEditors>
+     <TextBox CssClass="textbox">
+     </TextBox>
+   </StylesEditors>
+      <SettingsPager CurrentPageNumberFormat="{0}">
+        <NextPageButton>
+          <Image Url="~/App_Themes/ITC_Theme/Images/next.png">
+          </Image>
+        </NextPageButton>
+        <PrevPageButton>
+          <Image Url="~/App_Themes/ITC_Theme/Images/pre.png">
+          </Image>
+        </PrevPageButton>
+        <Summary Visible="false" AllPagesText="الصفحة : {0} - {1} ({2} items)" Text="الصفحة {0} من {1}" />
+      </SettingsPager>
+
+    </dx:ASPxGridView>

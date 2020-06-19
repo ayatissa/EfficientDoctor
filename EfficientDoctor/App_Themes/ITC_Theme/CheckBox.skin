@@ -1,0 +1,26 @@
+﻿<%@ Register assembly="DevExpress.Web.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web" tagprefix="dx" %>
+
+     <dx:ASPxCheckBoxList SkinId="CheckBoxList" runat="server" Font-Names="itc" RepeatDirection="Horizontal" RightToLeft="True">
+            <CheckedImage Height="22px" Url="~/App_Themes/ITC_Theme/Images/checkbox_1.png" Width="22px">
+            </CheckedImage>
+            <UncheckedImage Height="22px" Width="22px" Url="~/App_Themes/ITC_Theme/Images/checkbox_2.png">
+            </UncheckedImage>
+                <Border BorderWidth="0px" />
+        </dx:ASPxCheckBoxList>
+
+
+     <dx:ASPxCheckBoxList SkinId="CheckBoxListPopup" runat="server" Font-Names="itc" Font-Size="14px" RepeatDirection="Horizontal" RightToLeft="True">
+            <CheckedImage Height="22px" Url="~/App_Themes/ITC_Theme/Images/checkbox_1.png" Width="22px">
+            </CheckedImage>
+            <UncheckedImage Height="22px" Width="22px" Url="~/App_Themes/ITC_Theme/Images/checkbox_2.png">
+            </UncheckedImage>
+                <Border BorderWidth="0px" />
+        </dx:ASPxCheckBoxList>
+
+
+        <dx:ASPxCheckBox SkinId="CheckBox" runat="server">
+            <CheckedImage Height="22px" Url="~/App_Themes/ITC_Theme/Images/checkbox_1.png" Width="22px">
+            </CheckedImage>
+            <UncheckedImage Height="22px" Width="22px" Url="~/App_Themes/ITC_Theme/Images/checkbox_2.png">
+            </UncheckedImage>
+        </dx:ASPxCheckBox>

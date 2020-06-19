@@ -1,0 +1,48 @@
+﻿<%@ Register Assembly="DevExpress.Web.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web" TagPrefix="dx" %>
+
+
+<dx:ASPxGridLookup SkinID="LookUp" Font-Names="itc" CssClass="lookup" RightToLeft="True" runat="server" AllowUserInput="False" AnimationType="Slide" Height="30px" AutoGenerateColumns="False">
+<GridViewProperties EnableCallbackAnimation="True" EnablePagingCallbackAnimation="True" EnableRowsCache="False">
+  <SettingsBehavior AllowFocusedRow="True" AllowGroup="False" AllowSelectByRowClick="True" EnableRowHotTrack="True" />
+    <SettingsPager NumericButtonCount="5" PageSize="10" CurrentPageNumberFormat="{0}" EllipsisMode="OutsideNumeric">
+      <PrevPageButton ImagePosition="Left">
+      <Image Url="~/Images/pre_click-08.png"></Image>
+      </PrevPageButton>
+        <NextPageButton ImagePosition="Right">
+          <Image Url="~/Images/next_click-08.png"></Image>
+        </NextPageButton>
+
+        <Summary Visible="False" /></SettingsPager>
+        <Settings ShowFilterRow="True" ShowGroupButtons="False" ShowHeaderFilterBlankItems="False" />
+        <SettingsText EmptyDataRow="لا يوجد" /></GridViewProperties>
+        <GridViewStyles>
+          <Header Font-Bold="False" Font-Names="itc"></Header>
+        
+          <EmptyDataRow BackColor="#940011" HorizontalAlign="Center" VerticalAlign="Middle" ForeColor="White"></EmptyDataRow>
+    
+          <AlternatingRow></AlternatingRow>
+
+          <SelectedRow BackColor="LightGray" ForeColor="#000000"></SelectedRow>
+        </GridViewStyles>
+        <GridViewStylesPager>
+          <CurrentPageNumber Font-Names="Tahoma" Font-Size="X-Small" ForeColor="White">
+          <BackgroundImage HorizontalPosition="center" Repeat="NoRepeat" VerticalPosition="center" />
+          <Border BorderColor="Silver" BorderStyle="Solid" BorderWidth="1px" />
+          </CurrentPageNumber>
+          <Pager BackColor="White">
+          </Pager>
+          </GridViewStylesPager>
+ <DropDownButton Width="22" Image-Height="27">
+                                <Image Url="~/App_Themes/ITC_Theme/Images/combo.png" Width="22px">
+                                  <SpriteProperties CssClass="look_btn" Left="0px" Top="0px" />
+                                </Image>
+                              </DropDownButton>
+                              <ButtonStyle BackColor="Transparent" CssClass="look_btn" VerticalAlign="Middle">
+                                <Paddings Padding="0px" />
+                                <BackgroundImage Repeat="NoRepeat" />
+                                <Border BorderWidth="0px" />
+
+                              </ButtonStyle>
+
+
+                    </dx:ASPxGridLookup>

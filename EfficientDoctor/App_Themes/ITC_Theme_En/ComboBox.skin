@@ -1,0 +1,71 @@
+﻿<%@ Register assembly="DevExpress.Web.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web" tagprefix="dx" %>
+
+<dx:ASPxComboBox SkinID="Combo" SkinId="Combo" runat="server" CssClass="combobox">
+<ItemStyle Font-Names="itc" Font-Size="11px" HorizontalAlign="Right" />
+<DropDownButton>
+<Image Url="~/App_Themes/ITC_Theme/Images/combo.png">
+</Image>
+</DropDownButton>
+<ButtonStyle CssClass="combo_btn" HorizontalAlign="Left" VerticalAlign="Middle" BackColor="White">
+<paddings Padding="0px" />
+</ButtonStyle>
+</dx:ASPxComboBox>
+
+<dx:ASPxComboBox SkinID="Combo" SkinId="Combo_Tabs" width="200px" runat="server" CssClass="combobox">
+<ItemStyle Font-Names="itc" Font-Size="11px" HorizontalAlign="Right" />
+<DropDownButton>
+<Image Url="~/App_Themes/ITC_Theme/Images/combo.png">
+</Image>
+</DropDownButton>
+<ButtonStyle CssClass="combo_btn" HorizontalAlign="Left" VerticalAlign="Middle" BackColor="White">
+<paddings Padding="0px" />
+</ButtonStyle>
+</dx:ASPxComboBox>
+
+<dx:ASPxComboBox SkinID="Combo" SkinId="Combo_Tabs_Label" ReadOnly="true" width="300px" BackColor="Transparent" runat="server" >
+<ItemStyle Font-Names="itc" Font-Size="11px" HorizontalAlign="Right" />
+<DropDownButton Visible="False">
+                                                                            </DropDownButton>
+</dx:ASPxComboBox>
+
+<dx:ASPxDateEdit SkinID="Date" SkinId="Date" runat="server" AllowUserInput="False" CssClass="combobox">
+<CalendarProperties ShowClearButton="False">
+</CalendarProperties>
+<DropDownButton>
+<Image Url="~/App_Themes/ITC_Theme/Images/combo.png"></Image>
+</DropDownButton>
+<ButtonStyle CssClass="combo_btn" HorizontalAlign="Left" VerticalAlign="Middle" BackColor="White">
+<paddings Padding="0px" />
+</ButtonStyle>
+<CalendarProperties FirstDayOfWeek="Saturday" ShowWeekNumbers="False">
+</CalendarProperties>
+
+</dx:ASPxDateEdit>
+
+<dx:ASPxDateEdit SkinID="Date" SkinId="Date_Tabs" width="200px" runat="server" AllowUserInput="False" CssClass="combobox">
+<CalendarProperties ShowClearButton="False">
+</CalendarProperties>
+<DropDownButton>
+<Image Url="~/App_Themes/ITC_Theme/Images/combo.png"></Image>
+</DropDownButton>
+<ButtonStyle CssClass="combo_btn" HorizontalAlign="Left" VerticalAlign="Middle" BackColor="White">
+<paddings Padding="0px" />
+</ButtonStyle>
+<CalendarProperties FirstDayOfWeek="Saturday" ShowWeekNumbers="False">
+</CalendarProperties>
+
+</dx:ASPxDateEdit>
+
+
+<dx:ASPxDateEdit SkinID="Date" SkinId="Date_Tabs_Label" width="300px" runat="server" BackColor="Transparent" AllowUserInput="False" CssClass="comboboxTabs" ReadOnly="True">
+<CalendarProperties ShowClearButton="False">
+</CalendarProperties>
+   <DropDownButton Visible="False">
+                                                                            </DropDownButton>
+<ButtonStyle CssClass="combo_btn" HorizontalAlign="Left" VerticalAlign="Middle" BackColor="White">
+<paddings Padding="0px" />
+</ButtonStyle>
+<CalendarProperties FirstDayOfWeek="Saturday" ShowWeekNumbers="False">
+</CalendarProperties>
+  <Border BorderWidth="0px" />
+</dx:ASPxDateEdit>

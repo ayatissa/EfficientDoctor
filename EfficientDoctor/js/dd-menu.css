@@ -1,0 +1,51 @@
+/**
+ * @version 0.2
+ */
+.dd-menu {
+	height: 100%;
+	display: none;
+	left: 0;
+	overflow-y: auto;
+	overflow-x: hidden;
+	position: fixed;
+	top: 0;
+	width: 280px;
+	z-index: 999;
+}
+
+.ddm-before-open {
+	display: block;
+	opacity: 0;
+	visibility: hidden;
+	-webkit-transition: -webkit-transform 0.3s ease, opacity 0.3s ease;
+	transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.ddm-left {
+	left: -280px;
+}
+
+.ddm-right {
+	left: 100%;
+}
+
+.dd-menu.open {
+	opacity: 1;
+	visibility: visible;
+}
+
+.ddm-left.open {
+	-webkit-transform: translate3d(280px, 0, 0);
+	transform: translate3d(280px, 0, 0);
+}
+
+.ddm-right.open {
+	-webkit-transform: translate3d(-280px, 0, 0);
+	transform: translate3d(-280px, 0, 0);
+}
+
+.dd-menu.close {
+	opacity: 0;
+	-webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+}

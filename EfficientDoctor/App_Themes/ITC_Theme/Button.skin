@@ -1,0 +1,19 @@
+﻿<%@ Register assembly="DevExpress.Web.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web" tagprefix="dx" %>
+
+<dx:ASPxButton SkinID="Button" CssClass="btn_egate" BackColor="#cab57d" ForeColor="White" Font-Names="ITC" runat="server"></dx:ASPxButton>
+
+
+<dx:ASPxButton SkinID="Button_Red" CssClass="btn_red" BackColor="#B3000D" ForeColor="White" Font-Names="ITC" runat="server"></dx:ASPxButton>
+
+
+<dx:ASPxButton SkinID="Button_Red_Custom" CssClass="btn_red_custom" BackColor="#B3000D" ForeColor="White" Font-Names="ITC" runat="server"></dx:ASPxButton>
+
+
+<dx:ASPxButton SkinID="Button_Exit"  CssClass="btn_exit" BackColor="#B3000D" ForeColor="White" Font-Names="ITC" Font-Bold="true" runat="server"></dx:ASPxButton>
+
+<dx:ASPxButton SkinID="Button_Login" CssClass="btn log" BackColor="#B3000D" ForeColor="White" Font-Names="ITC" runat="server">
+<Border BorderColor="#B3000D" BorderStyle="Solid" BorderWidth="1px" />
+</dx:ASPxButton>
+
+<dx:ASPxButton SkinID="Button_Reg" CssClass="btn_egate" BackColor="#B3000D" ForeColor="White" Font-Names="ITC" runat="server">
+</dx:ASPxButton>

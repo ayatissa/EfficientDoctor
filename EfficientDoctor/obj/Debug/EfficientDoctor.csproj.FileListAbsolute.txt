@@ -1,0 +1,201 @@
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\roslyn\csc.exe
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\roslyn\vbc.exe
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\EfficientDoctor.dll.config
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\EfficientDoctor.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\EfficientDoctor.pdb
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\DevExpress.Office.v16.1.Core.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\DevExpress.Office.v16.1.Core.xml
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\bin\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.csprojResolveAssemblyReference.cache
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.dll.licenses
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.dll
+C:\Users\Tasneem\Documents\Visual Studio 2015\Projects\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.pdb
+D:\EfficientDoctor\EfficientDoctor\bin\roslyn\csc.exe
+D:\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\EfficientDoctor\EfficientDoctor\bin\roslyn\System.Collections.Immutable.dll
+D:\EfficientDoctor\EfficientDoctor\bin\roslyn\System.Reflection.Metadata.dll
+D:\EfficientDoctor\EfficientDoctor\bin\roslyn\vbc.exe
+D:\EfficientDoctor\EfficientDoctor\bin\roslyn\VBCSCompiler.exe
+D:\EfficientDoctor\EfficientDoctor\bin\roslyn\VBCSCompiler.exe.config
+D:\EfficientDoctor\EfficientDoctor\bin\EfficientDoctor.dll.config
+D:\EfficientDoctor\EfficientDoctor\bin\EfficientDoctor.dll
+D:\EfficientDoctor\EfficientDoctor\bin\EfficientDoctor.pdb
+D:\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Core.dll
+D:\EfficientDoctor\EfficientDoctor\bin\DevExpress.Office.v16.1.Core.dll
+D:\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Drawing.dll
+D:\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Core.xml
+D:\EfficientDoctor\EfficientDoctor\bin\DevExpress.Office.v16.1.Core.xml
+D:\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Drawing.xml
+D:\EfficientDoctor\EfficientDoctor\bin\de\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\EfficientDoctor\EfficientDoctor\bin\es\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\EfficientDoctor\EfficientDoctor\bin\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\EfficientDoctor\EfficientDoctor\bin\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+D:\EfficientDoctor\EfficientDoctor\bin\de\DevExpress.Office.v16.1.Core.resources.dll
+D:\EfficientDoctor\EfficientDoctor\bin\es\DevExpress.Office.v16.1.Core.resources.dll
+D:\EfficientDoctor\EfficientDoctor\bin\ja\DevExpress.Office.v16.1.Core.resources.dll
+D:\EfficientDoctor\EfficientDoctor\bin\ru\DevExpress.Office.v16.1.Core.resources.dll
+D:\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.csprojResolveAssemblyReference.cache
+D:\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.dll
+D:\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.pdb
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\EfficientDoctor.dll.config
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\EfficientDoctor.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\EfficientDoctor.pdb
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\DevExpress.Office.v16.1.Core.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\DevExpress.Office.v16.1.Core.xml
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.csprojResolveAssemblyReference.cache
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.dll.licenses
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.pdb
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\DevExpress.Data.v16.1.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\DevExpress.Printing.v16.1.Core.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\DevExpress.RichEdit.v16.1.Core.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\DevExpress.Web.ASPxThemes.v16.1.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\DevExpress.Web.Resources.v16.1.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\DevExpress.Web.v16.1.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\EntityFramework.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Security.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\Owin.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\System.Web.Providers.dll
+C:\Users\user1\Desktop\EfficientDoctor\EfficientDoctor\bin\WebGrease.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\EfficientDoctor.dll.config
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\EfficientDoctor.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\EfficientDoctor.pdb
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\DevExpress.Data.v16.1.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\DevExpress.Printing.v16.1.Core.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\DevExpress.RichEdit.v16.1.Core.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\DevExpress.Web.ASPxThemes.v16.1.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\DevExpress.Web.Resources.v16.1.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\DevExpress.Web.v16.1.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\EntityFramework.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Security.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\Owin.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\System.Web.Providers.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\WebGrease.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\DevExpress.Office.v16.1.Core.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Drawing.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\DevExpress.Office.v16.1.Core.xml
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\DevExpress.Pdf.v16.1.Drawing.xml
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\de\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\es\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\ja\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\bin\ru\DevExpress.Office.v16.1.Core.resources.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.csprojAssemblyReference.cache
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.dll.licenses
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.csproj.CopyComplete
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.dll
+C:\Users\user1\Desktop\المشروعي الجامعي  6-5-2017\المشروعي الجامعي  6-5-2017\EfficientDoctor\EfficientDoctor\obj\Debug\EfficientDoctor.pdb

@@ -1,0 +1,94 @@
+﻿<%@ Register assembly="DevExpress.Web.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" namespace="DevExpress.Web" tagprefix="dx" %>
+
+<dx:ASPxTabControl runat="server" ActiveTabIndex="1" RightToLeft="True" TabAlign="Center" SkinID="Tabs">
+      <TabStyle Font-Names="itc" ForeColor="#d19937" Height="32px" Width="181px">
+        <Paddings PaddingTop="10px" />
+        <BackgroundImage ImageUrl="~/Images/bg_tab.png" Repeat="NoRepeat" />
+        <Border BorderWidth="0px" />
+      </TabStyle>
+      <ActiveTabStyle Font-Names="itc" ForeColor="#b3000d" Height="32px" VerticalAlign="Middle" Width="181px">
+        <Paddings PaddingTop="10px" />
+        <BackgroundImage ImageUrl="~/Images/tab_bg_active.png" Repeat="NoRepeat" />
+        <Border BorderStyle="None" BorderWidth="0px" />
+      </ActiveTabStyle>
+      <ContentStyle>
+        <Border BorderStyle="None" BorderWidth="0px" />
+      </ContentStyle>
+      <Border BorderStyle="None" BorderWidth="0px" />
+      </dx:ASPxTabControl>
+
+
+
+<dx:ASPxPageControl width="100%" runat="server" RightToLeft="True" TabSpacing="10px" EnableHierarchyRecreation="True" SkinID="TabsContent" CssClass="TabsContent">
+
+      <TabStyle Font-Names="itc" ForeColor="#d19937" Height="41px" Width="181px">
+        <Paddings PaddingTop="14px" />
+        <BackgroundImage ImageUrl="~/App_Themes/ITC_Theme/Images/bg_tab.png" Repeat="Repeat" />
+        <Border BorderWidth="0px" />
+      </TabStyle>
+      <ActiveTabStyle Font-Names="itc" ForeColor="#b3000d" Height="41px" VerticalAlign="Middle" Width="181px">
+        <Paddings PaddingTop="14px" />
+        <BackgroundImage ImageUrl="~/App_Themes/ITC_Theme/Images/tab_bg_active.png" Repeat="NoRepeat" />
+        <Border BorderStyle="None" BorderWidth="0px" />
+      </ActiveTabStyle>
+      <ContentStyle>
+        <Border BorderStyle="None" BorderWidth="0px" />
+      </ContentStyle>
+      <Border BorderStyle="None" BorderWidth="0px" />
+</dx:ASPxPageControl>
+
+
+<dx:ASPxPageControl runat="server" ActiveTabIndex="0" RightToLeft="True" Width="100%" SkinID="Tabs_Final">
+            <TabStyle Font-Names="itc" ForeColor="#d19937" Width="181px">
+                <Paddings PaddingTop="10px" />
+                <BackgroundImage ImageUrl="Images/bg_tab.png" Repeat="Repeat" />
+                <Border BorderWidth="0px" />
+            </TabStyle>
+            <ActiveTabStyle Font-Names="itc" ForeColor="#b3000d" VerticalAlign="Middle" Width="181px">
+                <Paddings PaddingTop="9px" />
+                <BackgroundImage ImageUrl="Images/tab_bg_active.png" Repeat="NoRepeat" />
+                <Border BorderStyle="None" BorderWidth="0px" />
+            </ActiveTabStyle>
+            <ContentStyle>
+                <Border BorderStyle="None" BorderWidth="0px" />
+            </ContentStyle>
+            <Border BorderStyle="None" BorderWidth="0px" />
+            </dx:ASPxPageControl>
+
+
+<dx:ASPxPageControl runat="server" ActiveTabIndex="0" RightToLeft="True" Width="100%" SkinID="Tabs_Finalization">
+            <TabStyle Font-Names="itc" ForeColor="#d19937" Width="147px">
+                <Paddings PaddingTop="10px" />
+                <BackgroundImage ImageUrl="Images/bg_tab.png" Repeat="Repeat" />
+                <Border BorderWidth="0px" />
+            </TabStyle>
+            <ActiveTabStyle Font-Names="itc" ForeColor="#b3000d" VerticalAlign="Middle" Width="147px">
+                <Paddings PaddingTop="9px" />
+                <BackgroundImage ImageUrl="Images/tab_bg_active.png" Repeat="NoRepeat" />
+                <Border BorderStyle="None" BorderWidth="0px" />
+            </ActiveTabStyle>
+            <ContentStyle>
+                <Border BorderStyle="None" BorderWidth="0px" />
+            </ContentStyle>
+            <Border BorderStyle="None" BorderWidth="0px" />
+            </dx:ASPxPageControl>
+
+
+
+
+<dx:ASPxPageControl runat="server" ActiveTabIndex="0" RightToLeft="True" Width="100%" SkinID="Tabs_Final_two">
+            <TabStyle Font-Names="itc" ForeColor="Black" Width="181px">
+                <Paddings PaddingTop="10px" />
+                <BackgroundImage ImageUrl="Images/bg_tab.png" Repeat="Repeat" />
+                <Border BorderWidth="0px" />
+            </TabStyle>
+            <ActiveTabStyle Font-Names="itc" ForeColor="#b3000d" VerticalAlign="Middle" Width="181px">
+                <Paddings PaddingTop="9px" />
+                <BackgroundImage ImageUrl="Images/tab_bg_active.png" Repeat="NoRepeat" />
+                <Border BorderStyle="None" BorderWidth="0px" />
+            </ActiveTabStyle>
+            <ContentStyle>
+                <Border BorderStyle="None" BorderWidth="0px" />
+            </ContentStyle>
+            <Border BorderStyle="None" BorderWidth="0px" />
+            </dx:ASPxPageControl>

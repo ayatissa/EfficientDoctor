@@ -1,0 +1,71 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.Master.cs" Inherits="EfficientDoctor.Admin" %>
+
+<%@ Register Assembly="DevExpress.Web.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web" TagPrefix="dx" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+  <title> Efficient Doctor Patient Portal </title>
+  <!-- Meta Tags Begin -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="">
+  <meta name="robots" content="index follow">
+  <meta name="description" content="">
+  <!-- Link tags begin -->
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <script src="js/jquery-2.1.4.min.js"> </script>
+      <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="rel">
+    <div class="mobile-nav">
+      <i class="fa fa-times"> </i>
+     
+    </div>
+  </div>
+
+  <div class="pos-fixed">
+    <div class="container">
+      <div id="toggle">
+        <i class="fa fa-bars fa-2x"> </i>
+        </div>
+        <!-- toggle for mobile end above -->
+        <!-- navigation links start below -->
+      <nav>
+        <ul>
+                      <li><a href="Doctor.aspx"> Add Doctor </a> </li>
+
+          <li><a href="Customer.aspx"> View Patient </a> </li>
+          <li><a href="Appointment.aspx"> View Appiontment </a> </li>
+            <li><a href="SearchOrgan.aspx"> Search Organ </a> </li>
+            <li><a href="Feedback.aspx"> View Feedback </a> </li>
+            <li><a href="login.aspx"> Logout </a> </li>
+        </ul>
+        </nav>
+      <!-- navigation end -->
+      <!-- end of container below -->
+      </div>
+    <!-- end of pos-fixed -->
+    </div>
+  <!-- begin header -->
+    <header>
+    <div class="header">
+      
+       <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+      <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+ 
+        </asp:ContentPlaceHolder>
+      <!-- ends header below -->
+    </div>
+    </header>
+
+    </form>
+
+
+</body>
+</html>

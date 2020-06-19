@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="EfficientDoctor.Site" %>
+
+<%@ Register Assembly="DevExpress.Web.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web" TagPrefix="dx" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+   
+<head runat="server">
+    <title>  </title>
+  <!-- Meta Tags Begin -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="">
+  <meta name="robots" content="index follow">
+  <meta name="description" content="">
+  <!-- Link tags begin -->
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <script src="js/jquery-2.1.4.min.js"> </script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    
+</head>
+<body>
+    <form id="form1" runat="server">
+      
+          <div id="rel">
+    <div class="mobile-nav">
+      <i class="fa fa-times"> </i>
+    
+    </div>
+  </div>
+
+  <div class="pos-fixed">
+    <div class="container">
+      <div class="logo"><a href='/'> <span class="blue">Efficient Doctor</span> </a> </div>
+      <div id="toggle">
+        <i class="fa fa-bars fa-2x"> </i>
+        </div>
+        <!-- toggle for mobile end above -->
+        <!-- navigation links start below -->
+      <nav>
+        
+        </nav>
+      <!-- navigation end -->
+      <!-- end of container below -->
+      </div>
+    <!-- end of pos-fixed -->
+    </div>
+  <!-- begin header -->
+    <header>
+    <div class="header">
+        <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+      <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+ 
+        </asp:ContentPlaceHolder>
+      <!-- ends header below -->
+    </div>
+    </header>
+    <!-- end header -->
+    <!-- begin services section -->
+   
+   
+    <script src="js/functions-min.js" async> </script>
+
+    </form>
+
+
+</body>
+</html>

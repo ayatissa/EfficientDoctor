@@ -1,0 +1,52 @@
+﻿<%@ Register Assembly="DevExpress.Web.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web" TagPrefix="dx" %>
+
+<dx:ASPxPopupControl runat="server" SkinID="popControl" CloseAction="CloseButton" EnableCallbackAnimation="True"   EnableHotTrack="False" 
+  Modal="True" PopupAnimationType="Fade" PopupHorizontalAlign="WindowCenter" PopupVerticalAlign="WindowCenter" 
+  ShowCloseButton="True" ShowHeader="True" ShowShadow="False" MaxWidth="1000px" MinWidth="500px" MinHeight="150px" CssClass="pop_up" ShowPageScrollbarWhenModal="true" CloseAnimationType="Fade">
+
+<CloseButtonImage Url="~/App_Themes/ITC_Theme/Images/close.png">
+
+</CloseButtonImage>
+
+<HeaderStyle HorizontalAlign="Right" Font-Bold="True" Font-Size="16px"  ForeColor="#ffffff" BackColor="#17b290">
+
+<Paddings PaddingTop="5px" PaddingBottom="5px"></Paddings>
+
+</HeaderStyle>
+
+<ContentStyle>
+
+<Paddings Padding="0px" />
+
+</ContentStyle>
+   
+<Border BorderColor="transparent" BorderWidth="0"></Border>
+
+</dx:ASPxPopupControl>
+
+
+
+
+<dx:ASPxPopupControl runat="server" SkinID="popControls" CloseAction="CloseButton" EnableCallbackAnimation="True"   EnableHotTrack="False" 
+  Modal="True" PopupAnimationType="Fade" PopupHorizontalAlign="WindowCenter" PopupVerticalAlign="WindowCenter" 
+  ShowCloseButton="True" ShowHeader="True" ShowShadow="False" MaxWidth="600px" MinWidth="500px" MinHeight="150px" CssClass="pop_up" ShowPageScrollbarWhenModal="true" CloseAnimationType="Fade">
+
+<CloseButtonImage Url="~/App_Themes/ITC_Theme/Images/close.png">
+
+</CloseButtonImage>
+
+<HeaderStyle HorizontalAlign="Right" Font-Bold="True" Font-Size="Medium" BackColor="#CBB67E">
+
+<Paddings PaddingTop="5px" PaddingBottom="5px"></Paddings>
+
+</HeaderStyle>
+
+<ContentStyle>
+
+<Paddings Padding="0px" />
+
+</ContentStyle>
+   
+<Border BorderColor="transparent" BorderWidth="0"></Border>
+
+</dx:ASPxPopupControl>

@@ -1,0 +1,9 @@
+﻿<asp:Label CssClass="LabelPadding" SkinId="Label" runat="server" Font-Names="ITC" Font-Size="11px" ForeColor="#333333"></asp:Label>
+
+<dx:ASPxLabel SkinID="Label" CssClass="LabelPadding" SkinID="LabelDX" runat="server" Font-Names="ITC" Font-Size="11px" ForeColor="#333333"></dx:ASPxLabel>
+
+<dx:ASPxLabel SkinID="Label" CssClass="LabelPadding" SkinID="LabelDX_Login" runat="server" Font-Names="ITC" Font-Size="12px" Font-Bold="True" ForeColor="#333333"></dx:ASPxLabel>
+
+<dx:ASPxLabel SkinID="Label" CssClass="LabelPadding" SkinID="LabelDX_Popup" runat="server" Font-Names="ITC" Font-Size="20px" ForeColor="#333333"></dx:ASPxLabel>
+
+<dx:ASPxLabel SkinID="Label" CssClass="LabelPadding_L" SkinID="LabelDX_L" runat="server" Font-Names="ITC" Font-Size="13px" ForeColor="#333333"></dx:ASPxLabel>
